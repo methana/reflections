@@ -1,0 +1,24 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a hidden catalog named .git. You need it so you can use git and access older commits.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+It helps to organize your commits.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can move all your files there and commit once, so you don't need to make numerous commits for the same purpose.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
