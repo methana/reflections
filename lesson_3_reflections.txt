@@ -36,4 +36,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    First of all, making changes in master would be a lot easier when using github, but it can't be this way always. 
+    There are times when you need to try something out or just have two alternate versions of the same thing and these
+    are the times when you create a separate branch.
