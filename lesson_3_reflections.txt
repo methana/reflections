@@ -23,7 +23,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    By having that you can look through the changes that were made and try to implement them on to your code. Or even you can
+    merge you'r own changes to the remote.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
